@@ -216,7 +216,7 @@ section .redesSociales{
     position: absolute;
     top: 45%;
     left: 0;
-    padding-left: 100px;
+    padding-left: 20px;
 }
 
 section .redesSociales ul{
@@ -274,6 +274,7 @@ section .redesSociales ul li a:hover{
 
     section .contenido h2{
         font-size: 2em;
+        padding-right: -40px;
     }
 
     section .contenido p{
@@ -289,7 +290,7 @@ section .redesSociales ul li a:hover{
         height: 50px;
         margin: 10px;
     }
-    
+
     section .cards .card{
         width:180px;
     }
@@ -303,9 +304,11 @@ section .redesSociales ul li a:hover{
         font-size:0.8em;
     }
 
-    section .redesSociales{
-        padding-left: 80px;
-    }
+  
+
+  
+
+  
     
 }
 
@@ -340,6 +343,7 @@ section .redesSociales ul li a:hover{
     section .redesSociales ul li a{
         display: flex;
         justify-content: space-around;
+        
         
     }
 
